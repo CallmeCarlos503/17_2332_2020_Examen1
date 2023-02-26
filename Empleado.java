@@ -10,7 +10,7 @@ public class Empleado {
 
     public Empleado() {
         System.out.println("*****BIENVENIDO AL SISTEMA DE EMPLEADOS*****");
-        System.out.println("Como haz estado?");
+        
     }
 
     public void lectura() {
